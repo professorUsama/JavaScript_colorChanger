@@ -34,6 +34,6 @@ You can see a live demo of this project [here](https://professorusama.github.io/
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes.
 
 ## Join My Facebook Group Community
-[here](https://web.facebook.com/groups/python.javascript.react.linux.cpp.programming).
+[join Facebook Group](https://web.facebook.com/groups/python.javascript.react.linux.cpp.programming).
 
 Happy coding!
