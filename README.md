@@ -33,8 +33,7 @@ You can see a live demo of this project [here](https://professorusama.github.io/
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Join My Facebook Group Community
+[here](https://web.facebook.com/groups/python.javascript.react.linux.cpp.programming).
 
 Happy coding!
